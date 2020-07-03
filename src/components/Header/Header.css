@@ -1,0 +1,16 @@
+.toolbar {
+    display: flex;
+    width: 100%;
+    padding: 20px 16px;
+    background: #47b6e2;
+    color: whitesmoke;
+    height: 64px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.toolbar p {
+    margin: 0 !important;
+    padding-left: 8px;
+    padding-top: 0px;
+}
